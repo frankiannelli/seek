@@ -1,5 +1,5 @@
 import React from 'react';
-import { Customer } from "../domain/Customer";
+import { Customer } from '../domain/Customer';
 import { Advertisement } from '../domain/Advertisement';
 import { Checkout } from '../domain/Checkout';
 import { removeItemFromArray } from '../utils';
